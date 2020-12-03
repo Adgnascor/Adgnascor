@@ -4,7 +4,7 @@
 🔭 I'm a dotnet student from Gothenburg in Sweden. My main focus is  on dotnet and c#  
 
 If you want to 💬 feel free to contact me on:  
-📧[Email](William.l.dev@gmail.com)
+📧<a href="mailto:william.l.dev@gmail.com">Email</a>
 &nbsp;&nbsp;&nbsp;🌏 [LinkedIn](https://www.linkedin.com/in/william-lindahl-528222108)
 <br>
 <br>

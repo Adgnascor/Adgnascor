@@ -10,7 +10,7 @@ If you want to 💬 feel free to contact me on:
 <br>
 ⚡My editor of choice is Neovim if you want to check out my configuration, heres a link to the repository [Neovim- config](https://github.com/Adgnascor/nvim) and down below is a screen shot from my current setup. <br>
 <br>
-<img src="https://github.com/Adgnascor/nvim/blob/master/img/Dark.png?raw=true">
+<img src="https://github.com/Adgnascor/nvim/blob/master/img/treehouse.png?raw=true">
 <br>
   
 

@@ -1,19 +1,15 @@
 ### Hi, 👋 I'm William Lindahl, Welcome to my gh page! <br>
  
  
-🔭 I'm a dotnet student from Gothenburg in Sweden. My main focus is  on dotnet and c# 
+🔭 I'm a dotnet developer from Gothenburg in Sweden.
 
-👨‍🚀Current project I'm working : <br>
-💾[Back up your configuration files](https://github.com/Adgnascor/Backup-configurationfiles)
+👨‍🚀Current project that I'm working on: <br>
+💾[MishMash game](https://github.com/Adgnascor/MishMashGame)
 
 If you want to 💬 feel free to contact me on:  
 📧<a href="mailto:william.l.dev@gmail.com">Email</a>
 &nbsp;&nbsp;&nbsp;🌏 [LinkedIn](https://www.linkedin.com/in/william-lindahl-528222108)
 <br>
-<br>
-⚡My editor of choice is Neovim if you want to check out my configuration, heres a link to the repository [Neovim- config](https://github.com/Adgnascor/nvim) and down below is a screen shot from my current setup. <br>
-<br>
-<img src="https://github.com/Adgnascor/nvim/blob/master/img/treehouse.png?raw=true">
 <br>
   
 
